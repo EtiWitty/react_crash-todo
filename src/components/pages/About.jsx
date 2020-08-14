@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 function About() {
 	return (
@@ -8,6 +8,5 @@ function About() {
 		</React.Fragment>
 	)
 }
-
 
 export default About;
